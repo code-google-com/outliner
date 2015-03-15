@@ -1,0 +1,1 @@
+Outliner provides an improved outline view for the Orion JavaScript editor.
